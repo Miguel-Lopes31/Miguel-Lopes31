@@ -90,13 +90,13 @@ Atualmente, me aprofundo em ferramentas como SQL, Excel, Power BI e Python, alé
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MiguelLopes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Miguel-Lopes31&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
-      alt="GitHub Stats" 
+      alt="Top Languages" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLopes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Lopes31&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=javascript,html,css,c,cpp,java" 
   />
 </p>
