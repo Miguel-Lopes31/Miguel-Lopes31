@@ -44,39 +44,6 @@ Atualmente, me aprofundo em ferramentas como SQL, Excel, Power BI e Python, alé
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
 />
-<img 
-    align="left" 
-    alt="Jupyter Notebook" 
-    title="Jupyter Notebook" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Pandas" 
-    title="Pandas" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" 
-/>
-<img 
-    align="left" 
-    alt="NumPy" 
-    title="NumPy" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" 
-/>
-<img 
-    align="left" 
-    alt="Matplotlib" 
-    title="Matplotlib" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" 
-/>
-
 <br/>
 <br/>
 
