@@ -51,12 +51,10 @@ Atualmente, me aprofundo em ferramentas como SQL, Excel, Power BI e Python, alé
 
 ## 📊 Estatísticas do GitHub
 
-<div align=\"center\">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miguel-Lopes31&show_icons=true&theme=tokyonight&hide_border=true)  
+<p>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Lopes31&layout=compact&theme=tokyonight&hide_border=true)  
+<img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Miguel-Lopes31&show_icons=true&theme=tokyonight&locale=pt-br" /> </p>
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Miguel-Lopes31&theme=tokyonight&hide_border=true)  
+<img align="left" alt="Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-Lopes31&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&hide=javascript,html,css,c,cpp,java" />
 
-</div>
+</p>
